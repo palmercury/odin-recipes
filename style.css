@@ -4,6 +4,12 @@
     font-family:Georgia, 'Times New Roman', Times, serif
 }
 
+.brownies {
+    background-color:lightseagreen;
+    color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
 img {
     width: 700px;
     height:auto
@@ -12,8 +18,8 @@ img {
 }
 
 li {
-    font-weight:bolder;
-    text-align:center;
+    
+    
 }
 
 h1 {
@@ -27,3 +33,8 @@ h1 {
     margin-right: auto;
     width: 50%;
   }
+
+  #foods {
+      font-weight:bolder
+  }
+ 
